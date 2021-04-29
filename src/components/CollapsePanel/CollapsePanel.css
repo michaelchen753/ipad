@@ -1,0 +1,47 @@
+.box {
+  box-shadow:5px 5px 10px rgb(207, 206, 206);
+  padding: 0px;
+  margin: 0px;
+  width:100%;
+}
+
+.mynav {  
+    display: flex;
+    list-style: none;
+    margin: 0;    
+    height:120px;
+    justify-items: center;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    
+  }
+  .mybg {
+    background: linear-gradient(90deg, rgb(243, 241, 241), rgb(199, 197, 199));
+    width:100%;
+  
+  }
+
+  .myborder {
+    box-shadow: inset;
+
+  }
+
+  .myfont {
+    margin-left:20px;
+    font-size:2em;
+    margin-top:30px;
+    padding:5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+ 
+.expand_caret {
+  margin-left:auto;
+  margin-right:10px;
+  padding: 50px;
+  transform: scale(1.5);
+}
+
+.rotatecaret {  
+  transform: scale(1.5) rotate(-180deg);
+}

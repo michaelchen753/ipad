@@ -1,0 +1,24 @@
+.mypage {
+    display: flex;
+    list-style: none;
+    border-top:2px solid rgb(224, 222, 222);
+    padding: 20px;
+    margin:15px;
+  }
+  .mypage-left {
+    margin-left:25px;
+  }
+  .mypage-right {
+    margin-left:auto;
+    margin-right: 5px;
+  
+  }
+  
+  .mysvg {
+    padding: 25px;
+  }
+  
+  .description {
+    margin-top: 50px;
+    margin-bottom: 20px;   
+  }
