@@ -18,6 +18,7 @@
   .mybg {
     background: linear-gradient(90deg, rgb(243, 241, 241), rgb(199, 197, 199));
     width:100%;
+    cursor:pointer;
   
   }
 
